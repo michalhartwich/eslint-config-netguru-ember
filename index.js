@@ -23,6 +23,7 @@ module.exports = {
     'netguru-ember/no-observers': 1,
     'netguru-ember/no-side-effects': 2,
     'netguru-ember/jquery-ember-run': 2,
-    'netguru-ember/named-functions-in-promises': 2
+    'netguru-ember/named-functions-in-promises': 2,
+    'netguru-ember/order-in-objects': 1
   }
 }
