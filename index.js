@@ -21,5 +21,6 @@ module.exports = {
     'consistent-return': 0,
     'netguru-ember/local-modules': 1,
     'netguru-ember/no-observers': 1,
+    'netguru-ember/no-side-effects': 2,
   }
 }
