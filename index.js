@@ -25,6 +25,7 @@ module.exports = {
     'netguru-ember/jquery-ember-run': 2,
     'netguru-ember/named-functions-in-promises': 2,
     'netguru-ember/order-in-components': 1,
-    'netguru-ember/order-in-models': 2
+    'netguru-ember/order-in-models': 2,
+    'netguru-ember/alias-model-in-controller': 2,
   }
 }
