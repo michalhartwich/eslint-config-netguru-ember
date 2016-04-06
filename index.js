@@ -27,5 +27,6 @@ module.exports = {
     'netguru-ember/order-in-components': 1,
     'netguru-ember/order-in-models': 2,
     'netguru-ember/alias-model-in-controller': 2,
+    'netguru-ember/query-params-on-top': 2,
   }
 }
