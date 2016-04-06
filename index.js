@@ -30,5 +30,6 @@ module.exports = {
     'netguru-ember/query-params-on-top': 2,
     'netguru-ember/no-empty-attrs': 2,
     'netguru-ember/closure-actions': 1,
+    'netguru-ember/routes-segments-snake-case': 2,
   }
 }
