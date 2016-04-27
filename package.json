@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-netguru-ember",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/netguru/eslint-config-netguru-ember.git"
   },
+  "keywords": [
+    "eslint",
+    "ember",
+    "netguru",
+    "config",
+    "styleguide"
+  ],
   "author": "Michał Sajnóg (michal.sajnog@netguru.co)",
   "license": "MIT",
   "bugs": {
@@ -18,6 +25,6 @@
   "homepage": "https://github.com/netguru/eslint-config-netguru-ember#readme",
   "dependencies": {
     "eslint-config-airbnb": "^6.2.0",
-    "eslint-plugin-netguru-ember": "^0.1.0"
+    "eslint-plugin-netguru-ember": "^0.0.1"
   }
 }
