@@ -25,6 +25,6 @@
   "homepage": "https://github.com/netguru/eslint-config-netguru-ember#readme",
   "dependencies": {
     "eslint-config-airbnb": "^6.2.0",
-    "eslint-plugin-netguru-ember": "^0.0.1"
+    "eslint-plugin-netguru-ember": "^0.0.2"
   }
 }
