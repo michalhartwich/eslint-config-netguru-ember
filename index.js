@@ -19,6 +19,7 @@ module.exports = {
     'prefer-arrow-callback': 0,
     'prefer-rest-params': 0,
     'consistent-return': 0,
+    'import/no-unresolved': 0,
     'netguru-ember/local-modules': 1,
     'netguru-ember/no-observers': 1,
     'netguru-ember/no-side-effects': 2,
