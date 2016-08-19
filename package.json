@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/netguru/eslint-config-netguru-ember#readme",
   "peerDependencies": {
-    "eslint-config-airbnb-base": "3.x",
+    "eslint-config-airbnb-base": "5.x",
     "eslint-plugin-netguru-ember": "0.x"
   }
 }
